@@ -1,2 +1,15 @@
-# TravelAssistant
-The Personal Travel Assistant uses LLMs to generate customized travel itineraries based on user preferences. It integrates an intelligent dialogue system, processes travel-related queries, and offers a user-friendly interface to plan trips efficiently while showcasing performance and impact through real-time insights.
+🧳 Personal Travel Assistant
+
+The Personal Travel Assistant is an AI-powered application that generates personalized travel itineraries using Large Language Models (LLMs). It delivers tailored travel recommendations, automates conversations, and provides a user-friendly interface for an interactive and efficient trip-planning experience.
+
+🚀 Key Features
+
+🌍 Personalized Itineraries: Generates trip plans based on user preferences such as budget, duration, and interests.
+
+💬 Automated Dialogue: Engages users in natural conversations to gather details and refine suggestions.
+
+🧠 LLM Integration: Leverages state-of-the-art language models (OpenAI or Hugging Face) for intelligent query handling.
+
+🖥️ Interactive Frontend: Simple, intuitive interface for visualizing and managing travel plans.
+
+📊 Performance Insights: Demonstrates the system’s impact and effectiveness in generating optimized itineraries.
